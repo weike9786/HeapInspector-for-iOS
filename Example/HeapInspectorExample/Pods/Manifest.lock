@@ -11,6 +11,6 @@ EXTERNAL SOURCES:
     :path: ../../HeapInspector.podspec
 
 SPEC CHECKSUMS:
-  HeapInspector: a40c2d96064071ba5ced4e002c9ebe0894f34a00
+  HeapInspector: b6117a2496d4e4c0edf7cb68e7777d18870a1b78
 
 COCOAPODS: 0.35.0
