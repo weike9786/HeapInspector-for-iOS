@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/cmenschel'
   s.authors  = { 'Christian Menschel' => 'christian@tapwork.de' }
   s.source = {
-    :git => 'https://github.com/tapwork/HeapInspector.git',
+    :git => 'https://github.com/weike9786/HeapInspector-for-iOS.git',
     :tag => s.version.to_s
   }
   s.ios.deployment_target = '5.0'
